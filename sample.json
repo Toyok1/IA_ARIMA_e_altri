@@ -1,0 +1,45 @@
+{
+    "name": "external_data",
+    "index": [
+        0
+    ],
+    "data": [
+        {
+            "name": null,
+            "description": null,
+            "image": "https://ipfs.io/ipfs/QmVP1tqb9jf6XCkZZXkqGfTAtS8KwXHKHvkePh62zyL65n",
+            "image_256": "https://image-proxy.svc.prod.covalenthq.com/cdn-cgi/image/width=256,fit/https://ipfs.io/ipfs/QmVP1tqb9jf6XCkZZXkqGfTAtS8KwXHKHvkePh62zyL65n",
+            "image_512": "https://image-proxy.svc.prod.covalenthq.com/cdn-cgi/image/width=512,fit/https://ipfs.io/ipfs/QmVP1tqb9jf6XCkZZXkqGfTAtS8KwXHKHvkePh62zyL65n",
+            "image_1024": "https://image-proxy.svc.prod.covalenthq.com/cdn-cgi/image/width=1024,fit/https://ipfs.io/ipfs/QmVP1tqb9jf6XCkZZXkqGfTAtS8KwXHKHvkePh62zyL65n",
+            "animation_url": null,
+            "external_url": null,
+            "attributes": [
+                {
+                    "trait_type": "Clothes",
+                    "value": "Black Holes T"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "White"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Coins"
+                },
+                {
+                    "trait_type": "Background",
+                    "value": "New Punk Blue"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "Bored Cigar"
+                },
+                {
+                    "trait_type": "Hat",
+                    "value": "Spinner Hat"
+                }
+            ],
+            "owner": null
+        }
+    ]
+}
